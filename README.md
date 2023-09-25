@@ -113,5 +113,20 @@ This service should enable the coach to get all appointments corresponding to th
 ![image](https://github.com/Amisha328/NodeJS-weCare/assets/58816552/248675b0-42ca-4103-9471-2c04e6d4b2b3)
 
 ### **Note:**
-We are using the Postman application to hit the API endpoints.
+
+Software Requirement:
+
+1) MongoDB
+2) Postman
+3) Node JS
+4) Visual Studio Code
+
+
+Steps to run a Node JS application in VS Code:
+
+* Open Your Node.js Project.
+* Install Dependencies using `npm i`
+* Run your Node.js Application using `node app.js`
+* Run the MongoDB server using `mongod`
+* We are using the Postman application to hit the API endpoints.
 
